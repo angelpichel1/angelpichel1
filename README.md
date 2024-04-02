@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+<h2>Certifications</h2>
+(Google Cybesecurity Professional)
+
 
 
 
